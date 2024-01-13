@@ -10,8 +10,9 @@ let mult = x * y;
 let div = x / y;
 
 alert(
-  "O resultado da soma é: " + soma + 
-  "\n O resultado da subtração é: " + subtr + 
-  "\n O resultado da multiplição é: " + mult + 
-  "\n O resultado da divisão é: " + div
+  "Resultados: " + 
+  "\n Soma: " + soma + 
+  "\n Subtração: " + subtr + 
+  "\n Multiplição: " + mult + 
+  "\n Divisão: " + div
   );
