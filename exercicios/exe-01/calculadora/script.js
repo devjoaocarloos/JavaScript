@@ -1,8 +1,8 @@
-let x = prompt("Digite o valor de x");
-let y = prompt("Digite o valor de y");
+let numero1 = prompt("Digite o primeiro número:");
+let numero2 = prompt("Digite o segundo número:");
 
-x = parseFloat(x);
-y = parseFloat(y);
+let x = parseFloat(numero1);
+let y = parseFloat(numero2);
 
 let soma = x + y;
 let subtr = x - y;
