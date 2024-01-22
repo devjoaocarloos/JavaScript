@@ -23,5 +23,5 @@ switch (dia) {
     alert("Sábado");
     break;
   default:
-    alert('Digite um numero entre 0 e 6');
+    alert("Digite um numero entre 0 e 6");
 }

@@ -19,7 +19,6 @@
 //   alert("Nn sei oq vc pode ser");
 // }
 
-
-const resultado = (6 === 6) ? 'Verdadeiro' : 'Falso'
+const resultado = 6 === 6 ? "Verdadeiro" : "Falso";
 
 console.log(resultado);
